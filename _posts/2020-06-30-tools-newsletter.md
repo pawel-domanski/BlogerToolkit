@@ -1,4 +1,12 @@
-# Narzędzia do robienia newsletterów
+-------
+layout: page
+title:  "Narzędzia do newsletterów"
+date:   2020-06-25 13:57:55 +0200
+categories: dev
+---
+
+
+### Narzędzia do robienia newsletterów
 
 
 [Mail Styler 2](https://www.newslettercreator.com/)
