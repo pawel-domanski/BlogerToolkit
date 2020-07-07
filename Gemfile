@@ -1,5 +1,10 @@
-# frozen_string_literal: true
+source "https://rubygems.org"
 
-source 'https://rubygems.org'
+# to publish on github page
+gem 'github-pages', group: :jekyll_plugins
 
-gemspec
+# to publich without github page
+#gem "jekyll"
+
+gem 'wdm'
+gem 'jekyll'
