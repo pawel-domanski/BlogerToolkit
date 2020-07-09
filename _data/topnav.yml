@@ -7,14 +7,6 @@ topnav_dropdowns:
   folders:
     - title: Narzędzia
       folderitems:
-        - title: Portainer
-          external_url: https://talk.jekyllrb.com
-        - title: GitLab
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Frontend
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Backend
-          external_url: http://idratherbewriting.com/category-jekyll/
-        - title: API Dokumentacja
-          external_url: http://idratherbewriting.com/category-jekyll/
+        - title: GitHub
+          external_url: https://github.com
     

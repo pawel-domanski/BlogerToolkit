@@ -3,16 +3,16 @@ repository: pawel-domanski/CMS-Dokumentacja
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Dokumentacja projektowa
+topnav_title: Blogger Toolkit Pro
 # this appears on the top navigation bar next to the home button
 
-site_title: Dokumentacja projektowa
+site_title: Blogger Toolkit Pro
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: DexterLab
 # this appears in the footer
 
-github_editme_path: pawel-domanski/CMS-Dokumentacja
+github_editme_path: pawel-domanski/BlogerToolkit
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Dokumentacja projektowa
+feedback_subject_line: Blogger Toolkit Pro
 
 feedback_email: pawel@dexterlab.pl
 # used as a contact email for the Feedback link in the top navigation bar
