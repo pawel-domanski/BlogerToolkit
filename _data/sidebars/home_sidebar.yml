@@ -2,21 +2,58 @@
 
 entries:
 - title: Sidebar
+  product: Blogger Toolkit Pro
+  version: 1.0.1
   levels: one
   folders:
 
-  - title: Products
+
+  - title: Produktywność
     output: web
     folderitems:
-    - title: News
+    - title: Blogi o produktywności
+      url: /productivity_blogs.html
+      output: web
+    - title: Kursy o produktywności
+      url: /productivity_blogs_course.html
+      output: web
+      folderitems:
+    - title: Notion
+      url: /productivity_notion.html
+      output: web
+  
+  - title: Tools
+    output: web
+    folderitems:
+    - title: Do automatyzacji
+      url: /tools_auto.html
+      output: web
+    - title: Do grafiki
+      url: /tools_grafika.html
+      output: web
+    - title: Do streamowania
+      url: /tools_stream.html
+      output: web
+
+  - title: Prezentacje
+    output: web
+    folderitems:
+    - title: Kursy o prezentacjach
+      url: /presentation_courses.html
+      output: web
+    - title: Blogi o prezentacjach
+      url: /presentation_blogs.html
+      output: web
+
+  - title: Inne
+    output: web
+    folderitems:
+    - title: Blog
       url: /news.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: Do zrobienia na tej stronie
+      url: /other_todo.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
-      output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Rekomendacje
+      url: /other_recomendation.html
       output: web

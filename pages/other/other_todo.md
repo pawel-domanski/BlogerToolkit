@@ -1,8 +1,11 @@
--------
-layout: page
-title:  "Do zrobienia na tej stronie"
-date:   2020-06-25 13:57:55 +0200
-categories: dev
+---
+title: Do zrobienia
+keywords: other, todo
+last_updated: July 15, 2020
+tags: [blogi, lifestyle]
+sidebar: home_sidebar
+permalink: other_todo.html
+folder: other
 ---
 
 

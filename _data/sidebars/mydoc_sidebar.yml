@@ -22,7 +22,6 @@ entries:
   - title: Analiza
     output: web, pdf
     folderitems:
-
     - title: Wstęp
       url: /analiza_wstep.html
       output: web, pdf

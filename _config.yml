@@ -1,4 +1,4 @@
-repository: pawel-domanski/CMS-Dokumentacja
+repository: pawel-domanski/BlogerToolkit
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -35,7 +35,7 @@ exclude:
 
 feedback_subject_line: Blogger Toolkit Pro
 
-feedback_email: pawel@dexterlab.pl
+feedback_email: pawel@dbadmin.pl
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -71,7 +71,6 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
@@ -101,7 +100,6 @@ defaults:
 
 sidebars:
 - home_sidebar
-- mydoc_sidebar
 - other
 
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."

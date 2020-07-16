@@ -1,8 +1,11 @@
--------
-layout: page
-title:  "Grafika na strony"
-date:   2020-06-25 13:57:55 +0200
-categories: dev
+---
+title: Narzędzia do grafiki
+keywords: Narzędzia, Grafika
+last_updated: July 16, 2020
+tags: [tools, productivity, produktywność, narzędzia, grafika, onliner]
+sidebar: home_sidebar
+permalink: tools_grafika.html
+folder: tools
 ---
 
 ### Banki z darmowymi zdjęciami
