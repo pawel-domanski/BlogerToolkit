@@ -13,4 +13,4 @@ folder: productivity
 
 [Szkoła Bloga](https://akademia.pl/) - nasz rodzimy kurs o blogowaniu, kurs można kupić kilka razy w roku więc waro się zapisać na newsletter.
 
-
+[KeepProductive](https://www.keepproductive.com/) - anglojęzyczny blog poświęcony produktywności, oprócz bloga można znaleźć tam informacje video.
